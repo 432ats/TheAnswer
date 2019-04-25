@@ -9,3 +9,4 @@ Created on Thu Apr 25 16:30:25 2019
 
 #了解
 
+#kuritorisu
