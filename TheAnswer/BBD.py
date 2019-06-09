@@ -16,7 +16,7 @@ import numpy as np
 
 class BBdata:
     def __init__(self,URL):
-        self.URL = URL
+        self.URL                     = URL
         self.options                 = Options()
         self.options.binary_location = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
         self.driver                  = webdriver.Chrome(executable_path='c:\\chromedriver_win32 (1)\\chromedriver.exe')
